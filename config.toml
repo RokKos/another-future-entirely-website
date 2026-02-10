@@ -3,7 +3,8 @@ baseURL = "https://another-future-entirely.com"
 title = "Another Future Entirely"
 theme = "somrat"
 # post pagination
-paginate = "6"
+[pagination]
+pagerSize = 6
 # post excerpt
 summaryLength = "10"
 # disable language

@@ -5,8 +5,10 @@ team_lead_name: "Nejc Trampuž"
 team_lead_image: "nejc.webp"
 team_lead_role: "avtor"
 team_lead_description: "Nejc Trampuž (1993) je multimedijski umetnik iz Slovenije, ki je diplomiral s pohvalo (Cum Laude) in prejel nagrado ALUO za magistrski študij fotografije na Akademiji za likovno umetnost in oblikovanje v Ljubljani. V zadnjih petih letih je aktivno vključen v okoljske in ekološke projekte, od leta 2019 pa je tudi aktivist v gibanju Mladi za podnebno pravičnost. Njegovo priljubljeno izrazno sredstvo je kolaž v kombinaciji z različnimi sodobnimi tehnologijami, mediji in pristopi. Trampuž je imel več deset samostojnih in skupinskih razstav v Sloveniji in tujini ter prejel več nagrad za svoje delo."
-team_lead_link: "https://instagram.com/nejctrampuz"
-team_lead_link_icon: "fab fa-instagram"
+team_lead_link: "https://www.nejctrampuz.com"
+team_lead_link_icon: "far fa-share-square"
+team_lead_link2: "https://instagram.com/nejctrampuz"
+team_lead_link_icon2: "fab fa-instagram"
 team_lead_text_color: "#f04e2c"
 
 team_core:
@@ -24,7 +26,7 @@ team_core:
   description : "Rok Kos (1997) je razvijalec video iger in interaktivnih doživetij. Po končanem študiju interdisciplinarnega računalništva na Fakulteti za računalništvo in informatiko se je zaposlil v globalnem podjetju Outfit7, kjer je razvijal mobilne igre z več milijardami prenosov. Hkrati razvija lastne projekte, ki vključujejo robotiko, računalništvo in 3D-tiskanje."
   link : "https://vsemu-kos.si"
   link_icon: "far fa-share-square"
-  text_color: "#987ab7"
+  text_color: "#ff6b35"
 
 - name : "Brina Meze Petrić"
   image : "brina.webp"
