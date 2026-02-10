@@ -2,34 +2,34 @@
 title : "MEDIA COVERAGE"
 ---
 
-ANOTHER FUTURE ENTIRELY, SIMULAKER GALLERY, 2023:
-* <a href="https://vecer.com/v-nedeljo/intervju-umetnik-in-aktivist-nejc-trampuz-za-okoljski-boj-lahko-uporabimo-umetnost---in-pri-tem-uspemo-10327796" target="_blank"> Večer daily newspaper - interview; web and printed version </a>
-* <a href="https://www.rtvslo.si/kultura/vizualna-umetnost/popolnoma-drugacna-prihodnost-iskanje-poti-iz-stisk-v-katerih-se-je-znasel-svet/655195" target="_blank">Slovenian national multimedia centre - online article</a>
-* <a href="https://365.rtvslo.si/arhiv/kultura/174931143" target="_blank">Slovenian national TV - report in the Kultura broadcast</a> 
-* <a href="https://365.rtvslo.si/arhiv/svet-kulture/174930811" target="_blank">Slovenian national radio Prvi and Program Ars - report + interview</a> 
-* <a href="https://helsinki.at/program/125286/" target="_blank">Radio Helsinki (Graz, Austria) + Mur.at, podcast</a> 
-* <a href="https://www.mladina.si/222143/pozor-kultura/" target="_blank">Mladina magazine - exhibition announcement; web and printed version</a>
-* <a href="https://outsider.si/nejc-trampuz-popolnoma-drugacna-prihodnost/" target="_blank">Outsider magazine - online article</a> 
-* <a href="https://youtu.be/gVwI2IvV4Og" target="_blank">Art broadcast Sodobna umetnost / Contemporary Art</a>
-* <a href="https://www.sta.si/3129814/v-novem-mestu-vecmedijska-instalacija-popolnoma-drugacna-prihodnost-nejca-trampuza" target="_blank">Slovenian National Press Centre - exhibition announcement</a>
-* <a href="https://vaskanal.com/razstava-nejca-trampuza/" target="_blank">Vaš Kanal - local television report + interview</a>
-* <a href="https://www.lokalno.si/2023/01/16/270088/zgodba/Nejc_Trampuz_Another_Future_Entirely___Popolnoma_drugacna_prihodnost/" target="_blank">Lokalno.si, local news portal - exhibition announcement</a>
-* <a href="https://www.telex.si/novica.php?n=4178713" target="_blank">Telex.si news portal - exhibition announcement</a>
-* <a href="https://youtu.be/dhkuekFHUpM" target="_blank">Kritiški pose(la)dek, podcast with author Nejc Trampuž (pt. 1)</a>
-* <a href="https://youtu.be/QCS60wyxFY8" target="_blank">Kritiški pose(la)dek, podcast with author Nejc Trampuž (pt. 2)</a>
-* <a href="https://youtu.be/NkDaCOsGTl8" target="_blank">Kritiški pose(la)dek, podcast with curator Adrijan Praznik</a>
-
-KONSEKVENCE ≡ FRAGMENTI MOŽNEGA EKOSISTEMA, CUKRARNA GALLERY, 2023
-* <a href="https://www.rtvslo.si/kultura/vizualna-umetnost/konsekvence-petnajst-del-ki-kazejo-obrise-mogocih-ekosistemov/659854" target="_blank">Slovenian national multimedia centre - online article</a>
-* <a href="https://365.rtvslo.si/arhiv/kultura/174940956" target="_blank">Slovenian national TV - report in the Kultura broadcast</a>
-* <a href="https://365.rtvslo.si/arhiv/ars/174940238" target="_blank">Slovenian national radio Prvi and Program Ars - report + interview</a>
-* <a href="https://www.sta.si/3144926/platforma-kons-v-cukrarni-s-pregledno-razstavo-sodobne-raziskovalne-umetnosti" target="_blank">Slovenian National Press Centre - exhibition announcement</a>
-* <a href="https://www.mladina.si/222889/pozor-kultura/" target="_blank">Mladina magazine - exhibition announcement; web and printed version</a>
-* <a href="https://radiostudent.si/ostalo/mestni-napovednik/izbira-je-0 " target="_blank">Radio Študent - exhibition announcemente</a>
-* <a href="https://probauhaus.com/razstava-konsekvence-fragmenti-moznega-ekosistema-v-cukrarni/" target="_blank">Pro Bauhaus - online article</a>
-* <a href="https://www.dnevnik.si/1043018982/lokalno/ljubljana/mislim-svoje-mesto-upodobljena-domisljija" target="_blank">Dnevnik newspaper - mentioned in an interview with Lev Kreft</a>
-
-KONSEKVENCE, VELENJE GALLERY, 2023
-* <a href="https://www.velenjcan.si/objave/kultura/video-ob-mnozicnem-obisku-otvorili-konsekvence" target="_blank">Velenjčan TV - report</a>
-* <a href="https://www.velenjcan.si/objave/kultura/galerija-velenje-se-spremeni-v-hram-sodobne-raziskovalne-umetnosti" target="_blank">Velenjčan TV - exhibition announcement</a>
-* <a href="https://www.nascas.si/konsekvence-v-galeriji-velenje/" target="_blank">Naš Čas media portal - exhibition announcement</a>
+* <a href="https://vecer.com/v-nedeljo/intervju-umetnik-in-aktivist-nejc-trampuz-za-okoljski-boj-lahko-uporabimo-umetnost---in-pri-tem-uspemo-10327796" target="_blank">Newspaper Večer Sunday Supplement - V Nedeljo (Ljubljana, SI, 2023), print and online interview / Umetnik in aktivist Nejc Trampuž: Za okoljski boj lahko uporabimo umetnost - in pri tem uspemo!</a>
+* <a href="https://www.rtvslo.si/kultura/vizualna-umetnost/popolnoma-drugacna-prihodnost-iskanje-poti-iz-stisk-v-katerih-se-je-znasel-svet/655195" target="_blank">MMC RTV SLO (Ljubljana, SI, 2023), online article / Popolnoma drugačna prihodnost: iskanje poti iz stisk, v katerih se je znašel svet</a>
+* <a href="https://365.rtvslo.si/arhiv/kultura/174931143" target="_blank">TV Slovenija 1 (Ljubljana, SI, 2023), TV programme Kultura / Nejc Trampuž, galerija Simulaker</a>
+* <a href="https://365.rtvslo.si/arhiv/svet-kulture/174930811" target="_blank">Radio Prvi & Program Ars (Ljubljana, SI, 2023), radio feature + interview / Kako v popolnoma drugačno prihodnost?</a>
+* <a href="https://helsinki.at/program/125286/" target="_blank">Radio Helsinki + Mur.at (Graz, AT, 2023), podcast / Netzrauschen #017 Nejc Trampuž | Another Future Entirely</a>
+* <a href="https://www.mladina.si/222143/pozor-kultura/" target="_blank">Mladina (Ljubljana, SI, 2023), exhibition announcement; print and online / Pozor, kultura: Izbor dogodkov</a>
+* <a href="https://outsider.si/nejc-trampuz-popolnoma-drugacna-prihodnost/" target="_blank">Outsider (Ljubljana, SI, 2023), online article / Nejc Trampuž: Popolnoma drugačna prihodnost</a>
+* <a href="https://youtu.be/gVwI2IvV4Og" target="_blank">Sodobna umetnost (SI, 2023), online broadcast / NEJC TRAMPUŽ: POPOLNOMA DRUGAČNA PRIHODNOST / ANOTHER FUTURE ENTIRELY</a>
+* <a href="https://www.sta.si/3129814/v-novem-mestu-vecmedijska-instalacija-popolnoma-drugacna-prihodnost-nejca-trampuza" target="_blank">Slovenska tiskovna agencija (STA) (Ljubljana, SI, 2023), exhibition announcement / V Novem mestu večmedijska instalacija Popolnoma drugačna prihodnost Nejca Trampuža</a>
+* <a href="https://vaskanal.com/razstava-nejca-trampuza/" target="_blank">Vaš Kanal (Novo mesto, SI, 2023), TV feature + interview / Razstava Nejca Trampuža</a>
+* <a href="https://youtu.be/dhkuekFHUpM" target="_blank">Kritiški pose(la)dek (SI, 2023), podcast / 2.3_PODCAST: Nejc Trampuž in Aljaž Košmerlj o dvorezni umetni inteligenci_1.DEL</a>
+* <a href="https://youtu.be/QCS60wyxFY8" target="_blank">Kritiški pose(la)dek (SI, 2023), podcast / 2.3_PODCAST: Nejc Trampuž in Aljaž Košmerlj o dvorezni umetni inteligenci_2</a>
+* <a href="https://youtu.be/NkDaCOsGTl8" target="_blank">Kritiški pose(la)dek (SI, 2023), podcast / 2.1_PODCAST: Adrijan Praznik v oziru do sistemov in premišljevanja konceptov</a>
+* <a href="https://www.rtvslo.si/kultura/vizualna-umetnost/konsekvence-petnajst-del-ki-kazejo-obrise-mogocih-ekosistemov/659854" target="_blank">MMC RTV SLO (Ljubljana, SI, 2023), online article / Konsekvence: Petnajst del, ki kažejo obrise mogočih ekosistemov</a>
+* <a href="https://365.rtvslo.si/arhiv/kultura/174940956" target="_blank">TV Slovenija 1 (Ljubljana, SI, 2023), TV programme Kultura / Razstava konSekvence v Cukrarni</a>
+* <a href="https://365.rtvslo.si/arhiv/ars/174940238" target="_blank">Radio Prvi & Program Ars (Ljubljana, SI, 2023), radio feature + interview / Umetnost na presečišču znanosti, tehnologije in družbe – konSekvence</a>
+* <a href="https://www.sta.si/3144926/platforma-kons-v-cukrarni-s-pregledno-razstavo-sodobne-raziskovalne-umetnosti" target="_blank">Slovenska tiskovna agencija (STA) (Ljubljana, SI, 2023), exhibition announcement / Platforma Kons v Cukrarni s pregledno razstavo sodobne raziskovalne umetnosti</a>
+* <a href="https://probauhaus.com/razstava-konsekvence-fragmenti-moznega-ekosistema-v-cukrarni/" target="_blank">Pro Bauhaus (SI, 2023), online article / Razstava konSekvence: fragmenti možnega ekosistema v Cukrarni</a>
+* <a href="https://www.youtube.com/watch?v=vCKJFAOz_DU" target="_blank">Festival računalniške umetnosti (SI, 2023), online video / KONSEKVENCE: FRAGMENTI MOŽNEGA EKOSISTEMA / FRAGMENTS OF A POSSIBLE ECOSYSTEM</a>
+* <a href="https://koridor-ku.si/podobe/reportaza-podobe/raziskovalna-umetnost/" target="_blank">Koridor - Križišča umetnosti (Ljubljana, SI, 2023), online interview / Sklop intervjujev – konSekvence: Adrijan Praznik</a>
+* <a href="https://www.velenjcan.si/objave/kultura/video-ob-mnozicnem-obisku-otvorili-konsekvence" target="_blank">Velenjčan (Velenje, SI, 2023), video feature / Ob množičnem obisku otvorili konSekvence</a>
+* <a href="https://www.velenjcan.si/objave/kultura/galerija-velenje-se-spremeni-v-hram-sodobne-raziskovalne-umetnosti" target="_blank">Velenjčan (Velenje, SI, 2023), exhibition announcement / Galerija Velenje se spremeni v hram sodobne raziskovalne umetnosti</a>
+* <a href="https://www.mladina.si/224791/odnos-cloveka-do-lastnega-okolja/" target="_blank">Mladina (Ljubljana, SI, 2023), online feature / Odnos človeka do lastnega okolja: V Galeriji Y bo do 30. junija na ogled skupinska razstava Community.env</a>
+* <a href="https://www.rtvslo.si/kultura/drugo/osrednja-pozornost-29-mednarodnega-festivala-racunalniske-umetnosti-namenjena-marku-orniku/683736" target="_blank">MMC RTV SLO (Ljubljana, SI, 2023), online article / Osrednja pozornost 29. Mednarodnega festivala računalniške umetnosti namenjena Marku Orniku</a>
+* <a href="https://365.rtvslo.si/arhiv/tele-m/174991838" target="_blank">RTV Tele M (Maribor, SI, 2023), TV feature / Festival računalniške umetnosti</a>
+* <a href="https://vecer.com/kultura/racunalniske-umetnosti-za-naprej-in-nazaj-10341701" target="_blank">Večer (Ljubljana, SI, 2023), print and online interview / Računalniške umetnosti za naprej in nazaj</a>
+* <a href="https://www.sta.si/3220943/festival-racunalniske-umetnosti-s-pogledom-nazaj-in-naprej" target="_blank">Slovenska tiskovna agencija (STA) (Ljubljana, SI, 2023), exhibition announcement / Festival računalniške umetnosti s pogledom nazaj in naprej</a>
+* <a href="https://megafon.si/kultura-vse/festival-racunalniske-umetnosti-s-pogledom-nazaj-in-naprej/" target="_blank">Megafon.si (SI, 2023), online article / Festival računalniške umetnosti s pogledom nazaj in naprej</a>
+* <a href="https://www.dostop.si/mfru-2023-je-predstavil-svet-racunalniske-in-intermedijske-umetnosti/" target="_blank">Dostop.si (SI, 2023), online article / MFRU 2023 je predstavil svet računalniške in intermedijske umetnosti</a>
+* <a href="https://radiostudent.si/kultura/kulturni-obzornik/kodiranje-unikatnih-perspektiv" target="_blank">Radio Študent (Ljubljana, SI, 2023), radio feature + interviews / Kodiranje novih perspektiv</a>
+* <a href="https://www.rtvslo.si/kultura/drugo/festival-adela-ko-ustvarjalne-sile-zdruzijo-strojni-algoritmi-in-cloveska-inteligenca/688680" target="_blank">MMC RTV SLO (Ljubljana, SI, 2023), online article / Festival Adela: Ko ustvarjalne sile združijo strojni algoritmi in človeška inteligenca</a>
