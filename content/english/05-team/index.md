@@ -29,7 +29,7 @@ and works as a curator and producer for the project konS."
   description : "Rok Kos (1997) is a developer of video games and interactive experiences. After completing his studies in interdisciplinary computer science at the Faculty of Computer and Information Science, he was recruited by the Outfit7 global company, where he developed mobile games that had billions of downloads. Whilst developing his own projects involving robotics, computer science and 3D printing."
   link : "https://vsemu-kos.si"
   link_icon: "far fa-share-square"
-  text_color: "#ff6b35"
+  text_color: "#987ab7"
 
 - name : "Brina Meze Petrić"
   image : "brina.webp"

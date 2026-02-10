@@ -26,7 +26,7 @@ team_core:
   description : "Rok Kos (1997) je razvijalec video iger in interaktivnih doživetij. Po končanem študiju interdisciplinarnega računalništva na Fakulteti za računalništvo in informatiko se je zaposlil v globalnem podjetju Outfit7, kjer je razvijal mobilne igre z več milijardami prenosov. Hkrati razvija lastne projekte, ki vključujejo robotiko, računalništvo in 3D-tiskanje."
   link : "https://vsemu-kos.si"
   link_icon: "far fa-share-square"
-  text_color: "#ff6b35"
+  text_color: "#987ab7"
 
 - name : "Brina Meze Petrić"
   image : "brina.webp"
